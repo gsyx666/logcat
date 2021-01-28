@@ -1,2 +1,3 @@
 include ':app'
+include ':logcat'
 rootProject.name = "logcat"
