@@ -13,7 +13,6 @@ group = 'com.github.gsyx666'
 android {
     compileSdkVersion 29
 
-
     defaultConfig {
         minSdkVersion 19
         targetSdkVersion 29
@@ -29,5 +28,5 @@ android {
 }
 
 dependencies {
-    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    //implementation fileTree(dir: 'libs', include: ['*.jar'])
 }
